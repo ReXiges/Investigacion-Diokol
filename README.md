@@ -27,17 +27,28 @@ En este archivo los campos deben estar separados por una tabulacion horizontal.
 	
 	
 El formato de cada nodo debe seguir el siguiente orden separados por un tab:
-figure: esta es la seleccion las opciones son rectangle, triangle, circle o oval
+
+figura: esta es la seleccion las opciones son rectangle, triangle, circle o oval
+
 TAG: esta es una seccion de identificador es lo que saldra a un lado de la figura debe ser un string
-nombre: este es el nombre del nodo
+
+Nombre: este es el nombre del nodo
+
 R: cañon de color Rojo numero de 0 a 255 (se recomienda poner en cero y editar posteriormente con la aplicacion)
+
 G: cañon de color verde numero de 0 a 255 (se recomienda poner en cero y editar posteriormente con la aplicacion)
+
 B: cañon de color azul numero de 0 a 255 (se recomienda poner en cero y editar posteriormente con la aplicacion)
+
 X: posicion en el eje X (se recomienda poner en cero y editar posteriormente con la aplicacion)
+
 Y: posicion en el eje Y (se recomienda poner en cero y editar posteriormente con la aplicacion)
+
 Comentario Extra: algun comentario corto sobre el nodo que se desee agregar
-tamaño: un valor mayor o igual a 1, este refleja el tamaño de la figura (se recomienda poner en 20 y editar posteriormente con la aplicacion)
-valor: un valor entero que se le quiera asignar al nodo.
+
+Tamaño: un valor mayor o igual a 1, este refleja el tamaño de la figura (se recomienda poner en 20 y editar posteriormente con la aplicacion)
+
+Valor: un valor entero que se le quiera asignar al nodo.
 	
 	
 un ejemplo de un nodo es el siguiente(ignorar la primera linea, solo es de guia): 
