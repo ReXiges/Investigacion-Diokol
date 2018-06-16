@@ -1,0 +1,10 @@
+triangle	PN	primero	0	255	0	171	111	Esto es un nodo	24	23
+triangle	SN	segundo	255	233	0	166	52	Esto es otro nodo	19	66
+oval	TN	tercero	0	255	0	47	145	Tercer Nodo de ejemplo	73	850
+oval	CN	cuarto	255	165	0	50	193	Poblando	67	56
+circle	QN	quinto	253	63	146	361	66	Representacion	45	56
+rectangle	SXN	sexto	0	255	255	359	128	Mas datos de ejemplo	43	56
+rectangle	SPN	septimo	0	255	0	360	189	Mas poblacion	43	56
+triangle	ON	octavo	0	255	255	172	186	Otra prueba	21	56
+oval	NN	noveno	255	233	0	44	95	Tambien esta	67	56
+oval	DN	decimo	255	165	0	47	46	Aqui mas	67	56

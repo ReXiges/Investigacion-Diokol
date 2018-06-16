@@ -1,0 +1,8 @@
+﻿id,name,sons
+1,nodo1,2,5,7
+2,nodo2,3
+3,nodo3,4
+4,nodo4
+5,nodo5
+6,nodo6,5,1
+7,nodo7,4,3
