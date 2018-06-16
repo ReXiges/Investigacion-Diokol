@@ -1,5 +1,7 @@
 # Investigacion-Diokol
-#Visualizador de grafos interactivo
+Jose Gonzalez 2016157695
+Sergio Salas 2016138296
+# Visualizador de grafos interactivo
 Se le muestra al usuario la siguiente interfaz:
 
 ![](Visualizador%20de%20Grafos%20interactivo/f1.PNG)
