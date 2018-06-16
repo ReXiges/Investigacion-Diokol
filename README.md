@@ -73,6 +73,6 @@ Para guardar cualquier cambio hecho se da click en el boton negro en la parte su
 Para el uso correcto de la aplicacion se deben tener las clases csv.lua, Node.lua y Button.lua en la misma carpeta que la aplicacion.
 Tambien se provee un archivo de ejemplo con algunos nodos prehechos para prueba.
 
-un ejemplo de como se ve ele ejemplo dado:
+un ejemplo de como se ve el ejemplo dado:
 
 ![](Visualizador%20de%20nodos/ejemplo.png)
