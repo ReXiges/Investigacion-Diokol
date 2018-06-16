@@ -1,5 +1,5 @@
 # Investigacion-Diokol
-Jose Gonzalez 2016157695\
+Jose Gonzalez 2016157695
 
 Sergie Salas 2016138296
 # Visualizador de grafos interactivo
