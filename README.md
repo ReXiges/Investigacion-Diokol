@@ -43,6 +43,7 @@ valor: un valor entero que se le quiera asignar al nodo.
 un ejemplo de un nodo es el siguiente(ignorar la primera linea, solo es de guia): 
 	
 Figura   Tag nombre  R    G  B    X   Y    comentario    tam valor 
+
 triangle	PN	primero	0	255	0	171	111	Esto es un nodo	24	23
 	
 se deseaba poner el ingreso de nuevos nodos desde la aplicacion, lastimosamente por limitaciones con la herramienta no se pudo implementar.
@@ -61,4 +62,6 @@ Para guardar cualquier cambio hecho se da click en el boton negro en la parte su
 Para el uso correcto de la aplicacion se deben tener las clases csv.lua, Node.lua y Button.lua en la misma carpeta que la aplicacion.
 Tambien se provee un archivo de ejemplo con algunos nodos prehechos para prueba.
 
-![](Visualizador%20de%20nodos/ejemplo.PNG)
+un ejemplo de como se ve ele ejemplo dado:
+
+![](Visualizador%20de%20nodos/ejemplo.png)
